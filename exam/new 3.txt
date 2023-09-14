@@ -1,0 +1,43 @@
+FOL ,
+
+Last prolog programming part a)
+
+member set : 
+
+STRIPs : fire engine, fighter, 2 building, connect pipe and diminish the fire.
+
+true false (is satisfiable, is valid wale questions)
+
+UFPP interpretations
+
+BFS, Iterative DFS  (2 goal nodes)
+
+True false of the theory of bfs, dfs, bi directional (with respect to their time complexities) 
+
+Search problem : Queens problem , min(h1, h2) 
+
+
+900 - - - - - - - - -  902    
+	every digit  +1 one time only,, to reach 902 
+	
+	many true false questions based on the above question. (at least 10) 
+	
+	
+Default theory with extensions. (different question) 
+
+Admissible , complete, stable (3 to 4 diagrams were present)  
+
+   1- 2- 3- ....- n   connected to again 1 = write its complete set.
+
+2 theory questions - agent based, blah blah    
+
+
+A star search : https://www.youtube.com/watch?v=6TsL96NAZCo 
+Answer set programming : https://www.youtube.com/watch?v=kDjmqycSy_o&t=394s and few of his playlists (was not in exam)
+Admissible argumentation topic : watch lecture video for this topic  
+
+
+
+ai
+scoring - dfs bfs a*, strips, logics, default theory - tree, argumentation(3 graphs), Agents and multi agent systems (theory question)
+not sure - prologs, search problems, in-uninformed logics
